@@ -1,0 +1,10 @@
+/* Write your CSS here */
+
+.header {
+  background-color: #e2e8f0;
+  padding: 15px;
+}
+
+.header-heading {
+  text-align: center;
+}
